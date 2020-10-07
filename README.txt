@@ -1,0 +1,1 @@
+Prima prova di configurazione file Docker e relativo caricamento su GitHub
